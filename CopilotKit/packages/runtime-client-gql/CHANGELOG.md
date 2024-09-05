@@ -1,5 +1,18 @@
 # @copilotkit/runtime-client-gql
 
+## 1.1.3
+
+### Patch Changes
+
+- 638d51d: appendMessage fix 1
+- faccbe1: state-abuse resistance for useCopilotChat
+- b0cf700: remove unnecessary logging
+- Updated dependencies [638d51d]
+- Updated dependencies [faccbe1]
+- Updated dependencies [b0cf700]
+  - @copilotkit/runtime@1.1.3
+  - @copilotkit/shared@1.1.3
+
 ## 1.1.2
 
 ### Patch Changes

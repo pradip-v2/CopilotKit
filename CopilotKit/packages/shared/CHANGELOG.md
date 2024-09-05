@@ -1,5 +1,13 @@
 # @copilotkit/shared
 
+## 1.1.3
+
+### Patch Changes
+
+- 638d51d: appendMessage fix 1
+- faccbe1: state-abuse resistance for useCopilotChat
+- b0cf700: remove unnecessary logging
+
 ## 1.1.2
 
 ### Patch Changes
